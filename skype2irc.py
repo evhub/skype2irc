@@ -53,7 +53,7 @@ else:
     ]
 
     nick = "skype-}"
-    botname = "IRC ⟷  Skype".decode('UTF-8')
+    botname = "IRC ⟷ Skype".decode('UTF-8')
     password = None
     vhost = False
 
